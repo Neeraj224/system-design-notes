@@ -49,5 +49,4 @@ The goal of this repo is to keep a structured collection of system design ideas 
 This repository is meant for:
 - Quick revision of system design concepts  
 - Visual learning through diagrams  
-- Interview preparation for backend and distributed systems roles  
 
