@@ -4,21 +4,21 @@ This repository contains my personal system design notes, diagrams, and visual e
 
 The goal of this repo is to keep a structured collection of system design ideas in one place, including handwritten-style notes and architecture diagrams.
 
-![System Design](https://img.shields.io/badge/system--design-blue?logo=icloud&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/distributed--systems-purple?logo=icloud&logoColor=white)
-![Backend](https://img.shields.io/badge/backend-green?logo=serverless&logoColor=white)
-![Microservices](https://img.shields.io/badge/microservices-orange?logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/kafka-black?logo=apachekafka&logoColor=white)
-![Databases](https://img.shields.io/badge/databases-red?logo=postgresql&logoColor=white)
-![Scalability](https://img.shields.io/badge/scalability-brightgreen?logo=googlecloud&logoColor=white)
-![Load Balancing](https://img.shields.io/badge/load--balancing-yellow?logo=nginx&logoColor=black)
-![Caching](https://img.shields.io/badge/caching-lightgrey?logo=redis&logoColor=white)
-![Sharding](https://img.shields.io/badge/sharding-blueviolet?logo=mongodb&logoColor=white)
-![Low Level Design](https://img.shields.io/badge/low--level--design-teal?logo=codeforces&logoColor=white)
-![High Level Design](https://img.shields.io/badge/high--level--design-darkblue?logo=graphql&logoColor=white)
-![Architecture Diagrams](https://img.shields.io/badge/architecture--diagrams-lightblue?logo=diagrams.net&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/excalidraw-ff69b4?logo=excalidraw&logoColor=white)
-![Interview Prep](https://img.shields.io/badge/interview--prep-success?logo=leetcode&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-Architecture-blue?logo=icloud&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Scale-purple?logo=googlecloud&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Engineering-green?logo=serverless&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange?logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-Storage-red?logo=postgresql&logoColor=white)
+![Scalability](https://img.shields.io/badge/Scalability-Systems-brightgreen?logo=googlecloud&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-Networking-yellow?logo=nginx&logoColor=black)
+![Caching](https://img.shields.io/badge/Caching-Performance-lightgrey?logo=redis&logoColor=white)
+![Sharding](https://img.shields.io/badge/Sharding-Partitioning-blueviolet?logo=mongodb&logoColor=white)
+![Low Level Design](https://img.shields.io/badge/Low%20Level%20Design-LLD-teal?logo=codeforces&logoColor=white)
+![High Level Design](https://img.shields.io/badge/High%20Level%20Design-HLD-darkblue?logo=graphql&logoColor=white)
+![Architecture Diagrams](https://img.shields.io/badge/Architecture%20Diagrams-Visuals-lightblue?logo=diagramsdotnet&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-Diagrams-ff69b4?logo=excalidraw&logoColor=white)
+![Interview Prep](https://img.shields.io/badge/Interview%20Prep-Practice-success?logo=leetcode&logoColor=white)
 
 ## Contents
 
